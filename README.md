@@ -1,5 +1,5 @@
 
-# ICT / Technical Business Analyst (Roadmap for 2025 - 2026)
+# Technical Business Analyst (Roadmap for 2025 - 2026)
 
 ## Key points to consider:
 ```
