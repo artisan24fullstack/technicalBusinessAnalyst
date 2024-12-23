@@ -1,10 +1,11 @@
 
-# ICT / Technical Business Analyst (Roadmap for 2025)
+# ICT / Technical Business Analyst (Roadmap for 2025 - 2026)
 
 ## Key points to consider:
 ```
 This roadmap outlines the key aspects of the ICT / Technical Business Analyst role for 2025, 
-emphasizing the importance of bridging business needs with technological solutions while maintaining effective communication across all levels of the organization.
+emphasizing the importance of bridging business needs with technological solutions while 
+maintaining effective communication across all levels of the organization.
 ```
 
 ### Role Definition
@@ -30,8 +31,11 @@ emphasizing the importance of bridging business needs with technological solutio
 - IT developers and company needs
 - Business users and technology teams
 - Stakeholders and project managers
-- They translate business requirements into technical artifacts and communicate with developers by converting company requirements into technical objectives for development teams8.
 
+```
+They translate business requirements into technical artifacts and communicate with developers 
+by converting company requirements into technical objectives for development teams.
+```
 ### Methodology
 
 #### Technical Business Analysts employ various methodologies:
@@ -73,18 +77,19 @@ emphasizing the importance of bridging business needs with technological solutio
 
 ```
 - Requirements Engineering
-- BPMN Business Process Modeling Notation
-- UML with Enterprise Architect
-- Mockups
+- Business Process Modeling Notation (BPMN)
+- Unified Modeling Language (UML)
+- Mockup tools, Figma (UX)
 - Writing Specifications
 ```
 
 ### Databases and SQL
 ```
 - Introduction to Business Information Systems
-- Database Modeling
-- Declarative and Procedural SQL
+- Database Analysis and Modeling
+- Declarative and Procedural (SQL)
 - SQL Server Administration
+- NoSQL
 ```
 
 ### Project Management and Methodologies
@@ -104,16 +109,21 @@ emphasizing the importance of bridging business needs with technological solutio
 
 ```
 - Introduction to Big Data
-- Business Intelligence
+- Business Intelligence (BI)
+- Reporting with PowerBI
+- Reporting with Qlik Sense
+- Extract Transform Load (ETL)
+- Data Warehousing (SSIS)
+
 ```
 
 ### Development and Programming
 
 ```
-- Algorithms and Programming Fundamentals
+- Algorithms and Programming (Object-Oriented)
 - Introduction to Development Techniques
 - Introduction to Software Architectures
-- Software Testing
+- Software Testing (ISTQB)
 ```
 
 ### Advanced Technologies
@@ -121,5 +131,6 @@ emphasizing the importance of bridging business needs with technological solutio
 ```
 - CRM
 - ERP 
+- SharePoint
 ```
 
